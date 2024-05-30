@@ -1,4 +1,5 @@
-# A-Virtual-Assistant
+# Jarvis
 <br>
-This is a Virtual Assistant - Speak and Search.
+Jarvis is a Virtual Assistant - "Speak and Search".
+<br>
 Mini JavaScript Project.
